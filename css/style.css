@@ -1,0 +1,31 @@
+h1{
+  font-family: 'Cedarville Cursive', cursive;
+  color:#D8BFD8;
+  text-align: center;
+}
+#almacen{
+  margin-top: 100px;
+  margin-left: 450px;
+}
+div{
+  background:#FFDEAD;
+  border: 2px solid #D8BFD8;
+  display: block;
+  margin:10px;
+  height: 80px;
+  width: 80px;
+}
+
+.daddy{
+  display:block;
+  width: 340px;
+  height:100px;
+
+}
+.jr{
+  display: inline-block;
+
+}
+.siblings{
+  display: inline-block;
+}
